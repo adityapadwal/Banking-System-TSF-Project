@@ -1,0 +1,111 @@
+.nbar{
+  background-color: #202ee8;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  font-size: 20px;
+}
+#n1{
+  color: yellow;
+}
+a:visited{
+  background-color: none;
+  color:white;
+}
+a:active{
+ background-color: none;
+}
+a:link{
+  background-color: #202ee8;
+  text-decoration: none;
+  padding: 20px;
+  padding-right: 40px;
+  position: relative;
+  left: 40px;
+  color: white;
+}
+a:hover{
+  background-color:#0a1d66;
+  text-decoration: underline;
+}
+#imgpad{
+  padding-left:0px;
+}
+h1{
+  text-align: center;
+  font-size: 50px;
+  font-style: italic;
+}
+.jumbotron{
+  background-image: url("bank.jpg");
+  background-repeat: no-repeat;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#display-4{
+  color: #00fbff;
+  position: relative;
+  text-align: left;
+  padding-left: 100px;
+  font-family: fantasy;
+  font-size: 60px;
+}
+  .lead{
+  color: #00fbff;
+  position: relative;
+  text-align: left;
+  padding-left: 100px;
+  margin-top: 20px;
+  font-style: oblique;
+  font-size: 20px;
+  margin-top: 20px;
+  line-height: 10px;
+  font-family:cursive;
+}
+.lead1{
+color: #00fbff;
+position: relative;
+text-align: left;
+padding-left: 100px;
+margin-top: 20px;
+font-style: oblique;
+font-size: 20px;
+margin-top: 20px;
+font-family: cursive;
+line-height: 8px;
+}
+.lead2{
+color: #00fbff;
+position: relative;
+text-align: left;
+padding-left: 100px;
+margin-top: 20px;
+font-style: oblique;
+font-size: 20px;
+margin-top: 20px;
+font-family: italic;
+line-height: 10px;
+}
+.btn btn-primary btn-lg{
+  position: relative;
+  left: 100px;
+  padding: none;
+}
+#Copyright{
+  position:fixed;
+  bottom: 0px;
+  margin: none;
+  left: 530px;
+  color:#202ee8;
+}
+.clickButton{
+  position: relative;
+  left: 220px;
+  padding-left:30px;
+  padding-right: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #202ee8;
+  color: white;
+}

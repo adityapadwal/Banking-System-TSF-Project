@@ -1,0 +1,59 @@
+body{
+  background-color: #6ec7ff;
+}
+.nbar{
+  background-color: #202ee8;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  font-size: 20px;
+  margin: 0px;
+}
+#n1{
+  color: yellow;
+}
+a:visited{
+  background-color: none;
+  color:white;
+}
+a:active{
+ background-color: none;
+}
+a:link{
+  background-color: #202ee8;
+  text-decoration: none;
+  padding: 20px;
+  padding-right: 40px;
+  position: relative;
+  left: 40px;
+  color: white;
+}
+a:hover{
+  background-color:#0a1d66;
+  text-decoration: underline;
+  color: #000c1f;
+}
+h1{
+  font-style: italic;
+}
+#Copyright{
+  position:fixed;
+  bottom: 0px;
+  margin: none;
+  left: 530px;
+  color:#202ee8;
+}
+.about{
+  text-align: center;
+  font-family: Georgia;
+  padding: 15px;
+  background-color: #c9ebff;
+}
+.aboutInfo{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #c9ebff;
+    font-size: 20px;
+    font-family: cursive;
+}

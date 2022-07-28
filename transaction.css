@@ -1,0 +1,110 @@
+body{
+  background-color: #6ec7ff;
+}
+.nbar{
+  background-color: #202ee8;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  font-size: 20px;
+}
+#n1{
+  color: yellow;
+}
+a:visited{
+  background-color: none;
+  color:white;
+}
+a:active{
+ background-color: none;
+}
+a:link{
+  background-color: #202ee8;
+  text-decoration: none;
+  padding: 20px;
+  padding-right: 40px;
+  position: relative;
+  left: 40px;
+  color: white;
+}
+a:hover{
+  background-color:#0a1d66;
+  text-decoration: underline;
+  color: #000c1f;
+}
+#Copyright{
+  margin-top: 100px;
+  margin-left: 530px;
+  color:#202ee8;
+}
+.tom{
+  border-radius: 20px;
+  background-color: white;
+  width: 400px;
+  height: 600px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  position: relative;
+  left: 485px;
+  border: 3px solid blue;
+}
+.bigTom{
+  background-color: #6ec7ff;
+  padding: 50px;
+}
+.black{
+  font-family: sans-serif;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  text-align: center;
+  color: yellow;
+  background-color: black;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+.form-control{
+  margin: 10px;
+}
+#allignCenter{
+  text-align: center;
+  font-size: 25px;
+}
+#exampleDtaList{
+  width: 370px;
+}
+#rhead{
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.nm{
+  padding-left: 16px;
+  padding-top: 18px;
+}
+#name{
+  margin-left: 15px;
+}
+#moneyb{
+  margin-left: 15px;
+  margin-top: 17px;
+}
+#amoun{
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 370px;
+}
+#submit{
+  color: white;
+  margin-left: 160px;
+  margin-top: 30px;
+  background-color: black;
+  box-shadow: 2px 2px black;
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.accordion{
+  width: 900px;
+  margin-left: 300px;
+}
+.bigAccordion{
+  background-color: #6ec7ff;
+}
